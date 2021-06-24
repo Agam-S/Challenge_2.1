@@ -1,0 +1,5 @@
+1. Use GetcourseDetails Function to do this. - GetcourseDetails()
+
+2. Go through the list,  if course gets matches with num then student count will go ++; return count
+
+3. Find the person in the list by number, return the name.
